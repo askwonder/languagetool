@@ -205,10 +205,6 @@
     <module>languagetool-language-modules/all</module>
     <module>languagetool-gui-commons</module>
     <module>languagetool-server</module>
-    <module>languagetool-http-client</module>
-    <module>languagetool-tools</module>
-    <module>languagetool-dev</module>
-    <module>languagetool-rpm-package</module>
     <!-- don't add languagetool-client-example here, it's built manually only -->
   </modules>
 
