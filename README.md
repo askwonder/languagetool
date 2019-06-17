@@ -2,6 +2,8 @@
 Polish, Russian, and [more than 20 other languages](https://languagetool.org/languages/).
 It finds many errors that a simple spell checker cannot detect.
 
+This is Wonder's fork of the original repo.
+
 * [How to run your own LanguageTool server](http://wiki.languagetool.org/http-server)
 * [HTTP API documentation](https://languagetool.org/http-api/swagger-ui/#!/default/post_check)
 * [How to use our public server via HTTP](http://wiki.languagetool.org/public-http-api)
